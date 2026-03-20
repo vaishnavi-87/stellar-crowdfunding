@@ -1,9 +1,6 @@
 # 🌟 Stellar Crowdfunding dApp — Yellow Belt Level 2
 
-A crowdfunding dApp built on Stellar testnet using Soroban smart contracts. Users can connect multiple wallets, view campaign progress in real-time, and donate XLM.
-
-## 🔗 Live Demo
- https://stellar-crowdfunding.vercel.app 
+A crowdfunding dApp built on Stellar testnet using Soroban smart contracts. Users can connect multiple wallets, view campaign progress in real-time, and donate XLM. 
 
 ## 📸 Screenshot
 ![Wallet Options](Wallet.png)
